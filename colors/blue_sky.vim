@@ -69,7 +69,7 @@ hi Pmenu        guifg=#80ff80 guibg=#008800 gui=bold term=standout cterm=none   
 hi PmenuSel     guifg=#eeee10 guibg=#aa0000 gui=bold term=standout cterm=bold    ctermfg=darkblue   ctermbg=236
 hi PmenuThumb   guifg=#eeee10 guibg=#aa0000 gui=bold term=standout cterm=bold    ctermfg=darkblue   ctermbg=darkblue
 hi PmenuSbar    guifg=#eeee10 guibg=#aa0000 gui=bold term=standout cterm=bold    ctermfg=white      ctermbg=white
-hi Visual                     guibg=#262626 gui=none term=none     cterm=none                       ctermbg=234
+hi Visual                     guibg=#333333 gui=none term=none     cterm=none                       ctermbg=236
 hi TabLineFill  guifg=#eeee10 guibg=#121212 gui=bold term=bold     cterm=none    ctermfg=yellow	    ctermbg=247
 hi TabLine      guifg=#eeee10 guibg=#121212 gui=bold term=standout cterm=none    ctermfg=yellow	    ctermbg=247
 hi TabLine      guifg=#eeee10 guibg=#121212 gui=bold term=bold     cterm=none    ctermfg=yellow	    ctermbg=247
@@ -234,8 +234,8 @@ hi Question     guifg=#008800               gui=bold term=standout cterm=none   
 hi Pmenu        guifg=#ffffff guibg=#4800ff gui=bold term=standout cterm=none    ctermfg=white          ctermbg=236
 hi PmenuSel     guifg=#ffffff guibg=#1a005d gui=bold term=standout cterm=bold    ctermfg=darkblue       ctermbg=236
 hi PmenuThumb   guifg=#1a005d guibg=#1a005d gui=bold term=standout cterm=bold    ctermfg=darkblue       ctermbg=darkblue
-hi PmenuSbar    guifg=#ffffff guibg=#ffffff gui=bold term=standout   cterm=bold    ctermfg=white        ctermbg=white
-hi Visual                     guibg=#c6c6c6 gui=none term=standout cterm=none    ctermfg=255            ctermbg=blue
+hi PmenuSbar    guifg=#ffffff guibg=#ffffff gui=bold term=standout cterm=bold    ctermfg=white          ctermbg=white
+hi Visual                     guibg=#c6c6c6 gui=none term=standout cterm=none                           ctermbg=253
 hi TabLineFill  guifg=#eeee10 guibg=#121212 gui=bold term=bold     cterm=bold    ctermfg=16	        ctermbg=249
 hi TabLine      guifg=#eeee10 guibg=#121212 gui=bold term=standout cterm=bold    ctermfg=16	        ctermbg=249
 hi TabLine      guifg=#eeee10 guibg=#121212 gui=bold term=bold     cterm=bold    ctermfg=16	        ctermbg=249
