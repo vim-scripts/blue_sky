@@ -1,0 +1,15 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3739
+
+This color scheme is provided both light and dark version. I mainly do vim scripting and tex edditting, so these are supported in the best way (at least for now). Initially, it was based on rastafari colorscheme (#vimscript2198), but it looks much different.
+
+You can get a grasp how it looks like: 
+http://www.math.ist.utl.pt/~mszamo/blue_sky_light.jpg 
+http://www.math.ist.utl.pt/~mszamo/blue_sky_dark.jpg 
+
+It provides one command:
+:BlueSky
+to change from night to day sky ;) and vice versa. You can also do that by hands: just set the variable:
+let g:blue_sky_style = "light" or "dark"
+and reload the colorscheme (this can be done in your vimrc file before ':colorscheme blue_sky' command).
+
+Happy vimming :)
