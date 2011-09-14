@@ -214,7 +214,7 @@ hi Constant     guifg=#700000 guibg=bg      gui=none term=none     cterm=none   
 hi Special      guifg=#642567 guibg=bg      gui=none term=none     cterm=none    ctermfg=90
 hi Number       guifg=#8a04dd guibg=bg      gui=none term=none     cterm=none    ctermfg=57
 hi MoreMsg      guifg=#dd0049 guibg=bg      gui=bold term=bold     cterm=bold    ctermfg=green
-hi Identifier   guifg=white   guibg=bg      gui=bold term=bold     cterm=bold    ctermfg=234
+hi Identifier   guifg=#2E004B guibg=bg      gui=bold term=bold     cterm=bold    ctermfg=234
 hi Conditional  guifg=#707070 guibg=bg      gui=bold term=bold     cterm=bold    ctermfg=234
 hi Repeat       guifg=#707070 guibg=bg      gui=bold term=bold     cterm=bold    ctermfg=234
 hi Statement    guifg=#000080 guibg=bg      gui=bold term=bold     cterm=none    ctermfg=93
